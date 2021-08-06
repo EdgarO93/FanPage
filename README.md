@@ -1,2 +1,2 @@
 # FanPage
-Metallica Fanpage
+Metallica Fanpage created with HTML and CSS.
